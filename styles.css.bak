@@ -86,14 +86,14 @@ nav a {
 	text-decoration: none;	
 	font-family: Titillium, Arial, sans-serif;
 	font-weight: 700;
-	color: #7FFF00;
+	color: white;
 	text-shadow: 2px 2px 4px rgba(0,0,0,1);
 	text-transform:uppercase;
 	font-size: .9em;
 	letter-spacing: .1em;
-	background-color: rgb(127,255,0);
-	background: -webkit-linear-gradient(top, rgba(144,238,144,1),rgba(232,113,35,.5));
-	background: -moz-linear-gradient(top, rgba(232,113,35,1),rgba(152,251,152,.5));
+	background-color: rgb(232,113,35);
+	background: -webkit-linear-gradient(top, rgba(232,113,35,1),rgba(232,113,35,.5));
+	background: -moz-linear-gradient(top, rgba(232,113,35,1),rgba(232,113,35,.5));
 	background: -o-linear-gradient(top, rgba(232,113,35,1),rgba(232,113,35,.5));
 	background: linear-gradient(top, rgba(232,113,35,1),rgba(232,113,35,.5));
 	border: 1px solid rgb(232,113,35);
@@ -147,7 +147,7 @@ header nav {
 	bottom: 15%;
 	left: 0;
 	right: 0;
-	background-color: rgba(0,100,0,.6);
+	background-color: rgba(115,131,255,.6);
 	padding: 20px;
 	font-family: Titillium, sans-serif;
 	font-size: 0.9em;
@@ -165,8 +165,9 @@ footer {
 	left: 0;
 	right: 0;
 	padding: 10px;
-	background-color: #32CD32;
+	background-color: PINK;
 	color: white;
+	
 }
 
 
