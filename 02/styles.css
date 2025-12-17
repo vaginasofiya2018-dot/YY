@@ -1,0 +1,28 @@
+html {
+	background-color: #598BFF;
+	padding: 25px 25px;
+}
+p {
+color: #002E96;
+}
+h2 {
+font-size: 1.8em;
+background-color: #AEC5FC;
+padding: 10px 10px 10px 10px;
+margin: 0 0 0 10px;
+}
+body {
+
+}
+.blue1 {
+color: blue;
+}
+#red1 {
+color: red;
+font-size: 1.2em;
+}
+h1 {
+background-image: url(./images/звезда.svg);
+padding: 125px 0;
+font-size: 4em;
+}
