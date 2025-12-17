@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <path
+       d="M 46.869045,35.440475 A 17.008928,18.142857 0 0 1 30.757318,53.558074 17.008928,18.142857 0 0 1 12.945841,37.35184 17.008928,18.142857 0 0 1 27.178499,17.524522 17.008928,18.142857 0 0 1 46.491488,31.63902"
+       id="path10"
+       style="fill:#ff00ff;stroke-width:0.26458332" />
+    <path
+       d="M 69.547615,43.745106 A 11.528065,12.106085 0 0 1 58.627655,55.834336 11.528065,12.106085 0 0 1 46.55564,45.020517 11.528065,12.106085 0 0 1 56.202006,31.790431 11.528065,12.106085 0 0 1 69.29171,41.208478"
+       id="path12"
+       style="fill:#0000ff;stroke-width:0.26458332" />
+    <path
+       d="M 54.996162,31.639019 A 8.504673,10.216205 0 0 1 46.94011,41.841 a 8.504673,10.216205 0 0 1 -8.905964,-9.125674 8.504673,10.216205 0 0 1 7.116475,-11.164738 8.504673,10.216205 0 0 1 9.656751,7.947796"
+       id="path16"
+       style="fill:#00ffff;stroke-width:0.26458332" />
+    <path
+       d="M 159.50595,32.794643 A 16.630953,16.252975 0 0 1 143.75228,49.024991 16.630953,16.252975 0 0 1 126.3366,34.506942 16.630953,16.252975 0 0 1 140.25292,16.744943 16.630953,16.252975 0 0 1 159.13677,29.389104"
+       id="path18"
+       style="fill:#00ffff;stroke-width:0.26458332" />
+    <path
+       d="M 174.625,50.9375 A 17.008928,15.497024 0 0 1 158.51329,66.412948 17.008928,15.497024 0 0 1 140.7018,52.570157 17.008928,15.497024 0 0 1 154.9344,35.634297 17.008928,15.497024 0 0 1 174.24743,47.690358"
+       id="path20"
+       style="fill:#ff00ff;stroke-width:0.26458332" />
+    <path
+       d="m 174.24742,38.53973 a 7.5553288,9.1506262 0 0 1 -7.15678,9.137886 7.5553288,9.1506262 0 0 1 -7.91183,-8.173841 7.5553288,9.1506262 0 0 1 6.32209,-10.000225 7.5553288,9.1506262 0 0 1 8.5788,7.118819"
+       id="path22"
+       style="fill:#000080;stroke-width:0.26458332" />
+    <flowRoot
+       transform="scale(0.26458333)"
+       style="font-style:normal;font-weight:normal;font-size:64.00000081px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot24"
+       xml:space="preserve"><flowRegion
+         id="flowRegion26"><rect
+           y="73.866257"
+           x="-61.426994"
+           height="297.22491"
+           width="864.28326"
+           id="rect28" /></flowRegion><flowPara
+         style="-inkscape-font-specification:'Snap ITC Bold';font-family:'Snap ITC';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center"
+         id="flowPara30">Большая книга </flowPara><flowPara
+         style="-inkscape-font-specification:'Snap ITC Bold';font-family:'Snap ITC';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center"
+         id="flowPara32">CSS</flowPara></flowRoot>    <flowRoot
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"
+       id="flowRoot34"
+       xml:space="preserve"><flowRegion
+         id="flowRegion36"><rect
+           y="122.51968"
+           x="397.14285"
+           height="51.42857"
+           width="34.285713"
+           id="rect38" /></flowRegion><flowPara
+         id="flowPara40"></flowPara></flowRoot>  </g>
+</svg>
